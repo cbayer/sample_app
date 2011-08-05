@@ -1,0 +1,16 @@
+.container{
+	width:710px;
+}
+body{background:#cff;}
+header{padding:20px 0px;}
+header img{}
+section{margin-top:10px;font-size:120%;padding:20px;background:#fff;}	
+section h1{font-size:200%}
+a{
+	color:#333;
+	text-decoration:none;
+}
+a:hover{
+	color:#000;
+	text-decoration:underline;
+}
